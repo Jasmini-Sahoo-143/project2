@@ -1,4 +1,4 @@
 # New Project
 
 This project was created from local system
-create by Jasmini Sahoo
+created by Jasmini Sahoo.
